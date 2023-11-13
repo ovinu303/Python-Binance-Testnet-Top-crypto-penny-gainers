@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python-Binance Testnet Top 20 penny gainers", "Python-Binance Testnet Top 20 penny gainers.pyproj", "{3EC5D3DA-A2FD-471F-B140-21A960493950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC5D3DA-A2FD-471F-B140-21A960493950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC5D3DA-A2FD-471F-B140-21A960493950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD201D2F-521E-4130-B8A5-DBFDF801EFB6}
+	EndGlobalSection
+EndGlobal
